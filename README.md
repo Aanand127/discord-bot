@@ -1,4 +1,2 @@
 # discord-bot
-My test discord bot
-
-changing this
+My awsomeness cool discord bot
